@@ -5,3 +5,5 @@
     - https://yabmoons.tistory.com/526
    
   
+- 기초 코드 작성 요령
+  - https://blog.encrypted.gg/922
